@@ -32,7 +32,7 @@
 - **HybridFormer** — Transformer-based EEG classification for high-dimensional spatiotemporal signals *(IEEE Access, 2026)*
 - **EfficientUNet++** — Optic disc/cup segmentation for glaucoma detection using CLAHE & ROI extraction
 - **LoRaWAN Security** — Hybrid ML anomaly detection + lightweight Zero Trust authentication *(IEEE Access, 2026)*
-- **NusukTrace** — LoRaWAN-based real-time pilgrim tracking system
+
 
 ### 🏗️ Key Repositories
 | Repository | Description |
