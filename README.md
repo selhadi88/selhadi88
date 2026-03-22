@@ -55,18 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selhadi88&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selhadi88&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🌐 Open Education Initiative
 
 **جسور المعرفة (Bridges of Knowledge)** — Arabic open-access scientific textbook translation initiative, making quality STEM education accessible across the Arab world.
