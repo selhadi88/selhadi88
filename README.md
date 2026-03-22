@@ -30,16 +30,7 @@
 
 ### 🔬 Active Research
 - **HybridFormer** — Transformer-based EEG classification for high-dimensional spatiotemporal signals *(IEEE Access, 2026)*
-- **EfficientUNet++** — Optic disc/cup segmentation for glaucoma detection using CLAHE & ROI extraction
 - **LoRaWAN Security** — Hybrid ML anomaly detection + lightweight Zero Trust authentication *(IEEE Access, 2026)*
-
-
-### 🏗️ Key Repositories
-| Repository | Description |
-|---|---|
-| [`curriculumgpt-enhanced`](https://github.com/selhadi88/curriculumgpt-enhanced) | RoBERTa-based curriculum-industry alignment analysis for NAQAAE accreditation |
-| [`LoRa_Cybersecurity`](https://github.com/selhadi88/LoRa_Cybersecurity) | Hybrid ML security framework for LoRaWAN IoT networks |
-| [`ORAN`](https://github.com/selhadi88/ORAN) | Dynamic ML framework for secure, energy-efficient Open RAN systems |
 
 ---
 
