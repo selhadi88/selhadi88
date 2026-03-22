@@ -55,16 +55,6 @@
 
 ---
 
-## 🏛️ Academic Roles
-
-- 🎓 **Associate Professor & Center of Excellence Director** — MSA University, Egypt
-- 🌍 **Visiting Professor** — Lincoln University College, Malaysia
-- ✅ **ABET Observer** — Nominated by NAQAAE, Egypt (2025)
-- 📋 **NAQAAE Team Chair** — External Reviewer for Engineering Programs
-- 📰 **Editor-in-Chief** — MSA Engineering Journal
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
